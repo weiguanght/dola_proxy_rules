@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,wss-normal-i18n.dola.com,REJECT
+  - DOMAIN,www.dola.com,🚀 节点选择
+  - DOMAIN,wss-normal-i18n.dola.com,🚀 节点选择
+  - DOMAIN,mcs-nontt.dola.com,🚀 节点选择
+  - DOMAIN,sf-flow-web-cdn.ciciai.com,🚀 节点选择
+  - DOMAIN,mon-sg.byteintlapi.com,🚀 节点选择
+  - DOMAIN,mssdk.bytedance.com,🚀 节点选择
