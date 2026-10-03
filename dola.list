@@ -1,0 +1,7 @@
+# Dola proxy rules for Loon. Select your proxy policy when subscribing.
+# Also subscribe to dola_reject.list with policy=REJECT to preserve dola.yaml behavior.
+DOMAIN,www.dola.com
+DOMAIN,mcs-nontt.dola.com
+DOMAIN,sf-flow-web-cdn.ciciai.com
+DOMAIN,mon-sg.byteintlapi.com
+DOMAIN,mssdk.bytedance.com

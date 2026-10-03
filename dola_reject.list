@@ -1,0 +1,2 @@
+# Dola reject rules for Loon. Subscribe with policy=REJECT.
+DOMAIN,wss-normal-i18n.dola.com

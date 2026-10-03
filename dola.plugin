@@ -1,0 +1,11 @@
+#!name=Dola 分流
+#!desc=与 dola.yaml 的有效规则一致：拦截 WebSocket 域名，其余指定域名使用插件所选代理策略。无需开启 MITM。
+#!homepage=https://github.com/weiguanght/dola_proxy_rules
+
+[Rule]
+DOMAIN,wss-normal-i18n.dola.com,REJECT
+DOMAIN,www.dola.com,PROXY
+DOMAIN,mcs-nontt.dola.com,PROXY
+DOMAIN,sf-flow-web-cdn.ciciai.com,PROXY
+DOMAIN,mon-sg.byteintlapi.com,PROXY
+DOMAIN,mssdk.bytedance.com,PROXY
